@@ -1,0 +1,1 @@
+@keyframes toastSlideInFromRight{0%{opacity:0;transform:translate(100%)}to{opacity:1;transform:translate(0)}}@keyframes toastSlideOutToRight{0%{opacity:1;transform:translate(0)}to{opacity:0;transform:translate(100%)}}.toast-enter{animation:.4s ease-out both toastSlideInFromRight}.toast-exit{animation:.4s ease-in forwards toastSlideOutToRight}
